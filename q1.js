@@ -1,3 +1,6 @@
+
+const prompt = require("prompt-sync")();
+
 let num1 = parseFloat(prompt("Enter first number: "));
 let num2 = parseFloat(prompt("Enter second number: "));
 
